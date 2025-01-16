@@ -1,0 +1,5 @@
+The dataset contains two columns:
+- **Hours**: Number of hours studied.
+- **Scores**: Percentage score.
+
+Source: [Dataset](https://raw.githubusercontent.com/AdiPersonalWorks/Random/master/student_scores%20-%20student_scores.csv)
